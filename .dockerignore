@@ -19,3 +19,8 @@ not_tested_main.py
 # Исключить файлы IDE
 .vscode/
 .idea/
+
+# файлы для заданий
+2.5-report-yc.csv
+img/
+deploy.sh
